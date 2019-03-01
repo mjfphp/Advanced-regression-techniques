@@ -5,4 +5,20 @@
  
  <br>
  
- 
+   ###  <span style="color:#1687a7"> TOPICS </span>
+---------
+<div style="color:#014955">
+    
+-  Recuperation et chargement .
+- Statistique descriptive .
+- Graphiques .
+- feature engineering .
+- Variables explicatives . 
+- Prediction .
+- Graphiques evoluees .
+
+</div>
+
+------------------------
+
+
